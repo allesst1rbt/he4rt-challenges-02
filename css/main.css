@@ -1,0 +1,32 @@
+.purple-top{
+    background-color: rgb(189, 162, 214);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: auto;
+    width: 60%;
+    height: 20%;
+}
+.purple-bottom{
+    background-color: rgb(189, 162, 214);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin: auto;
+    width: 400px;
+    height: 40px;
+    padding: 20px;
+}
+.align-left{
+    margin-left: 20%;
+}
+a.nav-link{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 100%;
+}
+.principal{
+ margin: auto;
+ margin-top: 20px;
+}
+.right-card{
+    margin-left: 120px;
+
+}
